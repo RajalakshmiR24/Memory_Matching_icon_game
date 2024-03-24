@@ -1,10 +1,8 @@
-# Memory_Matching_icon_game
+# Memory Matching icon game
 This is a simple memory matching game built with Expo and React Native. The game consists of a board of icons that are shuffled each time the game is started. The player flips two cards at a time, trying to find matching pairs. The game ends when all pairs have been found.
-![download](https://github.com/RajalakshmiR24/Memory_Matching_icon_game/assets/127002476/88590dff-aae0-4834-9a1b-4823315c777f)
+![Memory Matching icon game](https://github.com/RajalakshmiR24/Memory_Matching_icon_game/assets/127002476/41a76e58-1f2c-41a6-9136-ba523106a907)
 
 ------------
-![Image](https://github.com/RajalakshmiR24/Memory_Matching_icon_game/assets/127002476/8dd4c3d2-7e77-4865-94d1-e81f1108f107)
-
 ## Getting Started
 To get started with the game, you will need to have Expo installed on your machine. Once you have Expo installed, you can run the game using the following commands:
 
